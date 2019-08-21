@@ -1,5 +1,5 @@
 Class Person
-  def 
+  def initialize
     @name 
     @job
   end
