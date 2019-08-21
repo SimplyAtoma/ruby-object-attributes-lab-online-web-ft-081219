@@ -1,4 +1,4 @@
-Class Person
+class Person
   def initialize
     @name 
     @job
@@ -19,4 +19,4 @@ Class Person
   def job 
     @job
   end 
-  
+end 
